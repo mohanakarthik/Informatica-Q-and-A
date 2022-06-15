@@ -1,0 +1,1 @@
+Informatica Interview Questions & Answers 
