@@ -1,5 +1,5 @@
 # Informatica Interview Questions & Answers 
 
-## [Informatica](#informatica)
-## [Unix](#unix)
-## [SQL](#sql)
+- [Informatica](Informatica.md)
+- [Unix](Unix.md)
+- [SQL](SQL.md)
